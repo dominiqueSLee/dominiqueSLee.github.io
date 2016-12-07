@@ -1,2 +1,25 @@
 name: Dominique Lee, Travel 
 markdown: kramdown
+# Default, Defaults
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: Dominique's Travels
+email: dlee1520@scrippscollege.edu
+description: Blogging and Eating my Way through Culture and the World
+baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
+
+# Where can people find your site?
+url: "http://localhost:3000"
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter:
+facebook:
+google:
+
+author:Dominique Lee
+authorBio: Country 31 here I come! 
